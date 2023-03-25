@@ -1,0 +1,9 @@
+matplotlib
+numpy
+opencv-python
+Pillow
+scikit-image
+tensorboard
+torch
+torchaudio
+torchvision
