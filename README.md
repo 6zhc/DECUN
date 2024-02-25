@@ -46,3 +46,11 @@ For more running option can see in the [option.py](option.py)
 ```
 python test.py
 ```
+
+## If you want to use this code, please cite our paper as
+@ARTICLE{Yanan24,
+    author = {Yanan Zhao and Yuelong Li and Haichuan Zhang and Vishal Monga and Yonina C. Eldar},
+		title = {Deep, convergent, unrolled half-quadratic splitting for image deconvolution},
+		journal={arXiv preprint arXiv:2402.12872},
+		year = {2024},
+}
