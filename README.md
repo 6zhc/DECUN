@@ -48,6 +48,7 @@ python test.py
 ```
 
 ## If you want to use this code, please cite our paper as
+```bibtex
 @ARTICLE{Yanan24,
     author = {Yanan Zhao and Yuelong Li and Haichuan Zhang and Vishal Monga and Yonina C. Eldar},
 		title = {Deep, convergent, unrolled half-quadratic splitting for image deconvolution},
